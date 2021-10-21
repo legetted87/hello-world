@@ -1,5 +1,4 @@
 # hello-world
-first week repository
 
 Hello GitHub,
 
